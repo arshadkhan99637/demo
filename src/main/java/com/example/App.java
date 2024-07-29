@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Good evening World!" );
-         System.out.println( "Have a nice day" );
+        System.out.println( "Have a nice day" );
+        System.out.println( "Sample Message" );
     }
 }
